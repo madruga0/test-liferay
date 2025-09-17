@@ -13,6 +13,7 @@ public class Main{
         list.add("WORLD");
 
         // any commentary
+        // hello
 
         scan.close();
 
